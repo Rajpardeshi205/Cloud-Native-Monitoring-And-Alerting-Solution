@@ -15,7 +15,7 @@ In This Implementation:
 
 # Architecture
 
-![ChatGPT Image Jun 20, 2026, 04_46_30 PM.png](ChatGPT_Image_Jun_20_2026_04_46_30_PM.png)
+![ChatGPT Image Jun 20, 2026, 04_46_30 PM.png](<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9559200c-3952-4ec4-a806-2bed26536957" />)
 
 # AWS Services Used
 
