@@ -15,7 +15,7 @@ In This Implementation:
 
 # Architecture
 
-![ChatGPT Image Jun 20, 2026, 04_46_30 PM.png](https://github.com/user-attachments/assets/9559200c-3952-4ec4-a806-2bed26536957/>)
+![Architecture Diagram](https://github.com/user-attachments/assets/9559200c-3952-4ec4-a806-2bed26536957)
 
 # AWS Services Used
 
