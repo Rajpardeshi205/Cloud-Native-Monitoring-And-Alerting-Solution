@@ -29,7 +29,7 @@ In This Implementation:
 
 ## 1. Go Create SNS Topic
 
-![image.png]([image.png](https://github.com/user-attachments/assets/9da5e77f-1285-4877-9e31-346b759fb544))
+![image.png](https://github.com/user-attachments/assets/9da5e77f-1285-4877-9e31-346b759fb544)
 
 ### 1.1 Create Topic
 
